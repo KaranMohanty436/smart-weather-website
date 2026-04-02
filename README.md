@@ -30,11 +30,23 @@ A modern full-stack weather website built using Python Flask that provides real-
 ## 📁 Project Structure
 weather-website/
 │
+
+
 ├── app.py
+
+
 ├── templates/
+
+
 │ └── index.html
+
+
 ├── static/
+
+
 │ ├── style.css
+
+
 │ └── script.js
 
 ---
